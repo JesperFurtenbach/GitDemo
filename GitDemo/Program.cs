@@ -14,6 +14,8 @@ namespace GitDemo
             Demo.Hello("Jesper");
 
             Console.WriteLine("Hello das über branch");
+
+            Console.WriteLine("Hello you fool.");
         }
     }
 }
