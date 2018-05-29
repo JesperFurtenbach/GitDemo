@@ -10,7 +10,7 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
-            //HEEEEEEEEEEEEEJ
+            Console.WriteLine("Welcome to my git demo");
         }
     }
 }
