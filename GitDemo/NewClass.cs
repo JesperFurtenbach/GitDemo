@@ -1,7 +1,0 @@
-namespace GitDemo
-{
-    class NewClass
-    {
-        
-    }
-}
